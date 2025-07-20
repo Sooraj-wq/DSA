@@ -3,9 +3,8 @@ This repository is my personal collection of common Data Structures and Algorith
 
 
 ### How to Use
-
 You can clone this repository to explore the implementations and solutions on your local machine.
-git clone [DSA Link](https://github.com/Sooraj-wq/DSA.git)
+git clone [github.com/Sooraj-wq/DSA.git](https://github.com/Sooraj-wq/DSA.git)
 Each problem solution is typically a self-contained Java class or method. You can copy the code directly into the LeetCode editor to test it or run it in your preferred IDE (like IntelliJ IDEA or Visual Studio Code).
 
 ## 🤝 Contributing
